@@ -1,5 +1,5 @@
 {
-    "name": "dcat-admin-ext/config",
+    "name": "aiddroid/dcat-admin-config",
     "description": "Config extension for dcat-admin",
     "type": "library",
     "keywords": ["dcat-admin", "setting"],
